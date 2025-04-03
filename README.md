@@ -1,6 +1,6 @@
-Neuro-Network
 A simple neural network for predicting hand-drawn digits with Python.
-Show Image
+![image](https://github.com/user-attachments/assets/4085c676-077e-4615-bc49-5d80abbe6121)
+
 Overview
 This project implements a neural network using NumPy to recognize handwritten digits from the MNIST dataset, with a drawing interface for testing.
 
